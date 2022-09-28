@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cursed", "cursed\cursed.vcxproj", "{BC131E62-BDAF-4135-B100-F48D9CD594E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC131E62-BDAF-4135-B100-F48D9CD594E2}.Debug|x64.ActiveCfg = Debug|x64
+		{BC131E62-BDAF-4135-B100-F48D9CD594E2}.Debug|x64.Build.0 = Debug|x64
+		{BC131E62-BDAF-4135-B100-F48D9CD594E2}.Debug|x86.ActiveCfg = Debug|Win32
+		{BC131E62-BDAF-4135-B100-F48D9CD594E2}.Debug|x86.Build.0 = Debug|Win32
+		{BC131E62-BDAF-4135-B100-F48D9CD594E2}.Release|x64.ActiveCfg = Release|x64
+		{BC131E62-BDAF-4135-B100-F48D9CD594E2}.Release|x64.Build.0 = Release|x64
+		{BC131E62-BDAF-4135-B100-F48D9CD594E2}.Release|x86.ActiveCfg = Release|Win32
+		{BC131E62-BDAF-4135-B100-F48D9CD594E2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12018F8C-3D8A-40D6-A0F9-95E53CEF581D}
+	EndGlobalSection
+EndGlobal

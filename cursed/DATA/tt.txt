@@ -1,0 +1,6 @@
+
+McDonalds:fastfood;burger;happy meal;
+Burger King:fastfood;burger;fried free;
+Papa John's:pizza;desserts;snacks;
+Tokyo Sushi:sushi and rolls;desserts;japanese;
+Vasilki:1;2;3;
